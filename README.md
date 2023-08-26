@@ -8,3 +8,5 @@
 Kanisk2125/Kanisk2125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Kanisk21cse's GitHub | Topics](https://stats.quine.sh/Kanisk21cse/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Kanisk21cse)
